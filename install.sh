@@ -19,6 +19,13 @@ if [ -z "$found_files" ]; then
     exit 1
 fi
 
+# Поиск файла иконки в директориях пользователя
+found_icons=$(find / -type f -name "logo.ico" 2>/dev/null)
+if [ -z "$found_icons" ]; then
+    echo "Иконка logo.ico не найдена."
+    exit 1
+fi
+
 # Установка исполнимых прав для найденных файлов
 for file in $found_files; do
     echo "Установка прав на файл: $file"
@@ -30,8 +37,8 @@ echo "Создание .desktop файла для добавления икон�
 desktop_file="/usr/share/applications/capturat.desktop"
 echo "[Desktop Entry]
 Name=CaptuRat
-Exec=$HOME/CaptuRat/linux-x64/CaptuRat
-Icon=$HOME/CaptuRat/linux-x64/logo.ico
+Exec=sudo $(echo $found_files | head -n1)
+Icon=$(echo $found_icons | head -n1)
 Type=Application
 Terminal=true
 Categories=Utility;" > $desktop_file
