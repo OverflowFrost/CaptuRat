@@ -37,7 +37,7 @@ echo "Создание .desktop файла для добавления икон�
 desktop_file="/usr/share/applications/capturat.desktop"
 echo "[Desktop Entry]
 Name=CaptuRat
-Exec=$(echo $found_files | head -n1)
+Exec=sudo $(echo $found_files | head -n1)
 Icon=$(echo $found_icons | head -n1)
 Type=Application
 Terminal=true
