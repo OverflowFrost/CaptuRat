@@ -30,9 +30,10 @@ echo "Создание .desktop файла для добавления икон�
 desktop_file="/usr/share/applications/capturat.desktop"
 echo "[Desktop Entry]
 Name=CaptuRat
-Exec=$found_files
+Exec=$HOME/CaptuRat/linux-x64/CaptuRat
 Icon=$HOME/CaptuRat/linux-x64/logo.ico
 Type=Application
+Terminal=true
 Categories=Utility;" > $desktop_file
 
 echo "Установка завершена. Вы можете запустить программу через меню приложений или с помощью созданного .desktop файла."
