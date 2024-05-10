@@ -31,7 +31,7 @@ desktop_file="/usr/share/applications/capturat.desktop"
 echo "[Desktop Entry]
 Name=CaptuRat
 Exec=$found_files
-Icon=$HOME/linux-x64/logo.ico
+Icon=$HOME/CaptuRat/linux-x64/logo.ico
 Type=Application
 Categories=Utility;" > $desktop_file
 
