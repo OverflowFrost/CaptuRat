@@ -25,4 +25,14 @@ for file in $found_files; do
     chmod +x "$file"
 done
 
-echo "Установка завершена. Вы можете запустить программу."
+echo "Создание .desktop файла для добавления иконки к приложению..."
+# Предполагается, что файл logo.ico расположен в ~/linux-x64/logo.ico
+desktop_file="/usr/share/applications/capturat.desktop"
+echo "[Desktop Entry]
+Name=CaptuRat
+Exec=$found_files
+Icon=$HOME/linux-x64/logo.ico
+Type=Application
+Categories=Utility;" > $desktop_file
+
+echo "Установка завершена. Вы можете запустить программу через меню приложений или с помощью созданного .desktop файла."
