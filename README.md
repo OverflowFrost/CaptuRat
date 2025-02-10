@@ -45,7 +45,7 @@ sudo mv ~/CaptuRat/linux-x64/CaptuRat /usr/local/bin/
 
 After completing these steps, the program will be ready for use.
 
-## Troubleshooting Localization Issues
+### Troubleshooting Localization Issues
 
 If you experience problems with text display or program output:
 
