@@ -138,13 +138,14 @@ sudo mv ~/CaptuRat/linux-x64/CaptuRat /usr/local/bin/
 Это обеспечит корректное отображение текстов и сообщений программы в соответствии с выбранным языком.
 
 
-## Screenshots and Videos
+## Screenshots
 1. Installation
+'''
 <p align="center">
     <img src="https://github.com/user-attachments/assets/301f069f-6901-49c1-9e70-a1890aa02a55" width="500">
     <img src="https://github.com/user-attachments/assets/74c19408-a543-4258-bc99-3be213cb30e4" width="500">
     <img src="https://github.com/user-attachments/assets/1ea2f51d-14cc-4525-9e81-d93d9ee0898b" width="500">
-</p>
+</p>'''
 2. Providing ARP-attack
 <p align="center">
     <img src="https://github.com/user-attachments/assets/b17eb8f7-1496-4c93-9702-6d182e2980bb" width="500">
