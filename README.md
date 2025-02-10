@@ -1,3 +1,71 @@
+## Installation
+
+To install dependencies and prepare the program for use, follow these steps:
+
+1. If Git is not installed, you can install it using your distribution's package manager:
+```
+sudo apt update
+sudo apt install git
+```
+
+2. Clone the repository:
+```
+git clone https://github.com/OverflowFrost/CaptuRat.git
+```
+
+3. Navigate to the project directory:
+```
+cd CaptuRat
+```
+
+4. Grant executable permissions to the installation script:
+```
+sudo chmod +x install.sh
+```
+
+5. Run the installation script:
+```
+sudo ./install.sh
+```
+
+6. After installation, navigate to the application's binary files directory to launch the application:
+```
+cd ~/CaptuRat/linux-x64
+```
+
+7. Start the application using the following command (using superuser privileges sudo, otherwise an error will occur when capturing packets):
+```
+sudo ./CaptuRat
+```
+
+8. If you want to move the application to another directory for easier access, you can use the mv command. For example, to move the application to the /usr/local/bin directory, run:
+```
+sudo mv ~/CaptuRat/linux-x64/CaptuRat /usr/local/bin/
+```
+
+After completing these steps, the program will be ready for use.
+
+## Troubleshooting Localization Issues
+
+If you experience problems with text display or program output:
+
+1. Check the current system language settings:
+
+```sudo localectl status```
+
+2. If the language is not set or displayed incorrectly, configure your preferred localization:
+
+- For Russian output:
+
+```sudo localectl set-locale LANG=ru_RU.UTF-8```
+
+- For English output:
+
+```sudo localectl set-locale LANG=en_US.UTF-8```
+
+This will ensure proper text and message display according to the selected language.
+
+
 ## Установка
 
 Для установки зависимостей и подготовки программы к работе выполните следующие шаги:
@@ -50,7 +118,7 @@ sudo mv ~/CaptuRat/linux-x64/CaptuRat /usr/local/bin/
 Если возникнут проблемы с отображением текста или выводом данных программы:
 
 1. Проверьте текущие языковые настройки системы:
-sudo localectl status
+```sudo localectl status```
 
 
 2. Если язык не установлен или отображается некорректно, установите предпочитаемую локализацию:
