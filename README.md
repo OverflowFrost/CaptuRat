@@ -153,7 +153,7 @@ sudo mv ~/CaptuRat/linux-x64/CaptuRat /usr/local/bin/
 3. Providing ARP-attack (Var.2)
 <p align="center">
     <img src="https://github.com/user-attachments/assets/424d6946-ec67-4643-8054-b5d05a94a1b5" width="500">
-<p> ## Writing log file after ARP-attack manipulations.</p>
+<p> Writing log file after ARP-attack manipulations:</p>
     <img src="https://github.com/user-attachments/assets/d234d445-2fc1-4cde-af69-cab86a0f284b" width="500">
     <img src="https://github.com/user-attachments/assets/af698575-9568-413f-a95f-b845b7cf1d73" width="500">
 </p>
@@ -162,4 +162,9 @@ sudo mv ~/CaptuRat/linux-x64/CaptuRat /usr/local/bin/
     <img src="https://github.com/user-attachments/assets/b5a4a4c0-ea29-4c52-aaf5-6ba76c8961c0" width="500">
     <img src="https://github.com/user-attachments/assets/381f595a-db01-4df3-9cbb-047e8a935ff2" width="500">
 </p>
-5.
+5. Providing DNS-attack
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/0b50a886-db1e-404e-93b8-fc80b6d9c672" width="500">
+    <img src="https://github.com/user-attachments/assets/db7d7914-d368-443c-b778-6a7105affb6b" width="500">
+    <img src="https://github.com/user-attachments/assets/eaec98d2-ccaa-463c-b045-6d05f965fe7c" width="500">
+</p>
