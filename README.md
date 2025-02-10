@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/c430284a-6168-462d-8cb1-50d5f54b928e)
+
 ## Installation
 
 To install dependencies and prepare the program for use, follow these steps:
@@ -132,3 +134,6 @@ sudo mv ~/CaptuRat/linux-x64/CaptuRat /usr/local/bin/
   ```
 
 Это обеспечит корректное отображение текстов и сообщений программы в соответствии с выбранным языком.
+
+#### Screenshots and Videos
+
