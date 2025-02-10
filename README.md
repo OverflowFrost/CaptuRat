@@ -141,6 +141,9 @@ sudo mv ~/CaptuRat/linux-x64/CaptuRat /usr/local/bin/
 ## Screenshots and Videos
 1. Installation
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/4ac050ae-054e-448c-bc4f-03d8a4111785" width="200">
+    <video width="600" controls>
+      <source src="https://github.com/user-attachments/assets/4ac050ae-054e-448c-bc4f-03d8a4111785" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>    
 </p>
 
