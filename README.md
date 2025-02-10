@@ -140,14 +140,26 @@ sudo mv ~/CaptuRat/linux-x64/CaptuRat /usr/local/bin/
 
 ## Screenshots
 1. Installation
-'''
 <p align="center">
     <img src="https://github.com/user-attachments/assets/301f069f-6901-49c1-9e70-a1890aa02a55" width="500">
     <img src="https://github.com/user-attachments/assets/74c19408-a543-4258-bc99-3be213cb30e4" width="500">
     <img src="https://github.com/user-attachments/assets/1ea2f51d-14cc-4525-9e81-d93d9ee0898b" width="500">
-</p>'''
-2. Providing ARP-attack
+</p>
+2. Providing ARP-attack (Var.1)
 <p align="center">
     <img src="https://github.com/user-attachments/assets/b17eb8f7-1496-4c93-9702-6d182e2980bb" width="500">
     <img src="https://github.com/user-attachments/assets/45e03292-d375-4e3f-9c1b-c5cf058d2598" width="500">
 </p>
+3. Providing ARP-attack (Var.2)
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/424d6946-ec67-4643-8054-b5d05a94a1b5" width="500">
+    - Writing log file after ARP-attack manipulations.
+    <img src="https://github.com/user-attachments/assets/d234d445-2fc1-4cde-af69-cab86a0f284b" width="500">
+    <img src="https://github.com/user-attachments/assets/af698575-9568-413f-a95f-b845b7cf1d73" width="500">
+</p>
+4. Detecting ARP-attack
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/b5a4a4c0-ea29-4c52-aaf5-6ba76c8961c0" width="500">
+    <img src="https://github.com/user-attachments/assets/381f595a-db01-4df3-9cbb-047e8a935ff2" width="500">
+</p>
+5.
