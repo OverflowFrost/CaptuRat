@@ -137,5 +137,10 @@ sudo mv ~/CaptuRat/linux-x64/CaptuRat /usr/local/bin/
 
 Это обеспечит корректное отображение текстов и сообщений программы в соответствии с выбранным языком.
 
-#### Screenshots and Videos
+
+## Screenshots and Videos
+1. Installation
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/4ac050ae-054e-448c-bc4f-03d8a4111785" width="200">
+</p>
 
