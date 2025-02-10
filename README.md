@@ -140,6 +140,7 @@ sudo mv ~/CaptuRat/linux-x64/CaptuRat /usr/local/bin/
 
 ## Screenshots
 <strong>
+
 1. Installation
 <p align="center">
     <img src="https://github.com/user-attachments/assets/301f069f-6901-49c1-9e70-a1890aa02a55" width="500">
@@ -168,5 +169,12 @@ sudo mv ~/CaptuRat/linux-x64/CaptuRat /usr/local/bin/
     <img src="https://github.com/user-attachments/assets/0b50a886-db1e-404e-93b8-fc80b6d9c672" width="500">
     <img src="https://github.com/user-attachments/assets/db7d7914-d368-443c-b778-6a7105affb6b" width="500">
     <img src="https://github.com/user-attachments/assets/eaec98d2-ccaa-463c-b045-6d05f965fe7c" width="500">
+    <img src="https://github.com/user-attachments/assets/9fb0c93a-f020-4054-b8fa-e7b4d6503f45" width="500">
+    <img src="https://github.com/user-attachments/assets/1fd855e3-047f-48d8-b409-d3c4f4fecef8" width="500">
+</p>
+6. Detecting DNS-attack
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/5ea6edf5-78a7-4910-aa48-529cddad8ee3" width="500">
+    <img src="https://github.com/user-attachments/assets/39e56084-728c-4350-ad97-c41ee8186886" width="500">
 </p>
 </strong>
