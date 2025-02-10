@@ -178,4 +178,31 @@ sudo mv ~/CaptuRat/linux-x64/CaptuRat /usr/local/bin/
     <img src="https://github.com/user-attachments/assets/19aba966-9e6f-4682-8af7-1e3594fda5d6" width="500">
     <img src="https://github.com/user-attachments/assets/f4fb923a-ef55-4bde-bf3f-a9a18e3d6af6" width="500">
 </p>
+7. Providing DHCP-attack
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/e2c0f2b0-4c91-418a-958f-53b1b37ff4f2" width="500">
+    <img src="https://github.com/user-attachments/assets/23bbd16e-314a-4440-b753-86dba7cbb47d" width="500">
+</p>
+8. Detecting DHCP-attack
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/ecfaa180-27dd-4573-b892-09199bc3c1c4" width="500">
+    <img src="https://github.com/user-attachments/assets/fc093cf1-5c9f-4216-94e3-4dff85c18b10" width="500">
+    <img src="https://github.com/user-attachments/assets/f4360e76-01cf-4ca5-9b05-91d878801855" width="500">
+    <img src="https://github.com/user-attachments/assets/ce271ef7-bf20-498b-baf0-3627911d5195" width="500">
+    <img src="https://github.com/user-attachments/assets/2f19e65c-9e09-4c0d-8861-76e20e4d420b" width="500">
+</p>
+9. Providing ICMP-attack
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/5f5dfc4c-787e-4330-ae81-f4cb7d754aee" width="500">
+    <img src="https://github.com/user-attachments/assets/71cf17ab-198c-4247-93c7-329ab6d46b71" width="500">
+    <img src="https://github.com/user-attachments/assets/5c823e43-83da-4c88-b554-e14a26208b0f" width="500">
+    <img src="https://github.com/user-attachments/assets/c5b1caff-d129-419b-87eb-89dbffbabb4e" width="500">
+</p>
+10. Detecting ICMP-attack
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/35b0f15e-7441-4241-ac84-ec22417adb8c" width="500">
+    <img src="https://github.com/user-attachments/assets/fafc26c1-780c-4844-b914-aeb4346f4b8a" width="500">
+    <img src="https://github.com/user-attachments/assets/e5c549a0-763c-4757-b1b3-4826c427ba79" width="500">
+    <img src="https://github.com/user-attachments/assets/1b7e7393-61f4-4af3-9104-d5d297ae501e" width="500">
+</p>
 </strong>
