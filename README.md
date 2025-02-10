@@ -69,7 +69,7 @@ If you experience problems with text display or program output:
 
 This will ensure proper text and message display according to the selected language.
 
-## Screenshots
+### Screenshots
 <strong>
 1. Installation
 <p align="center">
@@ -206,7 +206,7 @@ sudo mv ~/CaptuRat/linux-x64/CaptuRat /usr/local/bin/
 Это обеспечит корректное отображение текстов и сообщений программы в соответствии с выбранным языком.
 
 
-## Скриншоты
+### Скриншоты
 <strong>
 1. Установка
 <p align="center">
