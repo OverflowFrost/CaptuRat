@@ -141,6 +141,7 @@ sudo mv ~/CaptuRat/linux-x64/CaptuRat /usr/local/bin/
 ## Screenshots
 <b>
 1. Installation
+</b>
 <p align="center">
     <img src="https://github.com/user-attachments/assets/301f069f-6901-49c1-9e70-a1890aa02a55" width="500">
     <img src="https://github.com/user-attachments/assets/74c19408-a543-4258-bc99-3be213cb30e4" width="500">
