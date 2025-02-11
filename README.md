@@ -85,7 +85,7 @@ This will ensure proper text and message display according to the selected langu
 3. Providing ARP-attack (Var.2)
 <p align="center">
     <img src="https://github.com/user-attachments/assets/424d6946-ec67-4643-8054-b5d05a94a1b5" width="500">
-<p align="center"> Writing log file after ARP-attack manipulations:</p>
+<p align="left"> Writing log file after ARP-attack manipulations:</p>
     <img src="https://github.com/user-attachments/assets/d234d445-2fc1-4cde-af69-cab86a0f284b" width="500">
     <img src="https://github.com/user-attachments/assets/af698575-9568-413f-a95f-b845b7cf1d73" width="500">
 </p>
